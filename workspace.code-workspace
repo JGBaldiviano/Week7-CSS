@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": ".."
+	},
+	{
+		"path": "..\\web-tech\\prelim"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "WebTechnologiesCodes"
+  }
+}
